@@ -77,10 +77,10 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmednoorani258&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" height="200px" />
   
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmednoorani258&theme=transparent" alt="GitHub Streak" height="200px" />
-</div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmednoorani258&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" height="200px" />
+
 
 <p align="center">
     <a href="https://github.com/Ahmednoorani258">
@@ -92,6 +92,7 @@
          height="192px" />
 </a>
 </p>
+</div>
 
 <p align="center">
        <a href="https://github.com/Ahmednoorani258">
