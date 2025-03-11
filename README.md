@@ -49,7 +49,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmednoorani258&theme=radical&hide_border=true" alt="GitHub Streak" height="180px" />
+ [![GitHub Streak](https://streak-stats.demolab.com?user=ahmednoorani258&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmednoorani258&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
 
 </div>
