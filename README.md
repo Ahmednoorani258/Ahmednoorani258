@@ -54,6 +54,8 @@
 
 </div>
 
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmednoorani258&show_icons=true&locale=en" alt="ahmednoorani" /></p>  
+
 <p align="center">
     <a href="https://github.com/Ahmednoorani258">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmednoorani258&bg_color=0D1117&color=58A6FF&line=EB5454&point=58A6FF&hide_border=true&theme=github-compact&area=true" width="100%" />
