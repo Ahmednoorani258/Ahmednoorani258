@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey 👋, I'm Ahmed Noorani | <a href="https://github.com/AhmedNoorani"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan" height="30" width="30"></a>|
+# Hey 👋, I'm Ahmed Noorani | <a href="https://github.com/AhmedNoorani"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan" height="30" width="30"></a> |
 
 </div>
 
