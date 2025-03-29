@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center">🚀 Web Developer | Passionate about crafting dynamic, scalable, and efficient web experiences .</h3>
+<h3 align="center"> Web Developer | Passionate about crafting dynamic, scalable, and efficient web experiences .</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=600&lines=Web+Development+Enthusiast;Python+%7C+JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;UI%2FUX+Designer;Open+Source+Contributor;Always+Learning+New+Tech" alt="Ahmed Noorani Typing Animation" />
