@@ -15,7 +15,7 @@
 ### 🚀 About Me
 - 💡 **Always exploring new web technologies, AI & Web3 Stuff.**
 - 🔥 **Passionate about delivering seamless and user-friendly digital experiences.**
-- 💬 **Ask me about:** Web Development, UI/UX, JavaScript, TypeScript, React, Next.js, python
+- 💬 **Ask me about:** Web Development, UI/UX, JavaScript, TypeScript, React, Next.js, python, Gen AI, Ai Agents
 - 🎯 **Currently improving:** Performance optimization, AI integration in web apps.
 - ⚡ **Fun Fact:** I love solving complex problems and optimizing workflows with clean, scalable code.
 
