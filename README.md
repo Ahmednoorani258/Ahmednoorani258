@@ -23,7 +23,7 @@
 
 ## 🛠 Tech Stack & Tools
 
-### 🚀 Languages:
+### 🚀 Languages :
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" alt="Languages" />
 </p>
