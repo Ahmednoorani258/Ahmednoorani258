@@ -4,6 +4,8 @@
 
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=ahmednoorani258&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
 <h3 align="center"> Web Developer | Passionate about crafting dynamic, scalable, and efficient web experiences .</h3>
 
 <p align="center">
