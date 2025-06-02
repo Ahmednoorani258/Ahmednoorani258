@@ -27,12 +27,12 @@
 
 ### 🚀 Languages :
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,php" alt="Languages" />
 </p>
 
 ### 📦 Frameworks & Libraries:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,tailwind,fastapi,streamlit" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,tailwind,fastapi,streamlit,laravel,streamlit,alpine" alt="Frameworks & Libraries" />
 </p>
 
 ### 🤖 AI & ML:
