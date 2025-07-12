@@ -49,13 +49,6 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmednoorani258&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmednoorani258&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
-
-</div>
-
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmednoorani258&show_icons=true&locale=en" alt="ahmednoorani" /></p>  
 
 <p align="center">
