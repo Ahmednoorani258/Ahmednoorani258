@@ -48,14 +48,11 @@
 ---
 
 ## 📈 GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmednoorani258&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmednoorani258&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmednoorani258&show_icons=true&locale=en" alt="ahmednoorani" /></p>  
 
-<p align="center">
-    <a href="https://github.com/Ahmednoorani258">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmednoorani258&bg_color=0D1117&color=58A6FF&line=EB5454&point=58A6FF&hide_border=true&theme=github-compact&area=true" width="100%" />
-    </a>
-</p>
 
 ---
 
